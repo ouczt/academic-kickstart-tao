@@ -70,8 +70,6 @@ email: "zuot@mail.sysu.edu.cn"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Tao Zuo is a professor at Sun Yat-Sen University and the Sixth affiliated Hospital of SYSU. His research interests include gut microbiome in human health and disease, with special interest in microbiome 'dark matters' (virome/phageome, mycobiome, archaeaome) and their roles, interactions and mechanisms of actions in disease pathogensis as well as therapeutics. He leads the microbiome research lab at SYSU Research Institute of Gastroenterology (SYSU Research Institute of Gastroenterology), where he is appointed as associate director.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
