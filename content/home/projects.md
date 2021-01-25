@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: The role of gut phages and fungi in human health and disease
     tag: '*'
-  - name: Microbe-microbe and its relationship to disease pathogenesis
+  - name: Microbe-microbe interaction and its relationship to disease pathogenesis
     tag: '*'
   - name: Precision microbial therapy
     tag: '*'
