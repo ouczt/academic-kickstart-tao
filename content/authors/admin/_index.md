@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tao Zuo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Sun Yat-Sen University (SYSU)
+  url: https://www.sysu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include gut microbiome and human health, microbiome dark matters, digestive diseases.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Gut microbiome
+- Inflammatory Bowel Disease
+- Fecal microbiota transplantation
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Postdoc in Microbiome and Digestive disease
+    institution: The Chinese University of Hong Kong
+    year: 2015-2018
+  - course: PhD in Gut Mucosal Immunology
+    institution: Harvard University and Ocean Univeristy of China
+    year: 2010-2015
+  - course: BSc in Microbiology
+    institution: Ocean Univeristy of China
+    year: 2006-2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,13 +45,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Tao_Zuo_
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=XWV3g_IAAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ouczt
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -64,7 +64,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "zuot@mail.sysu.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
