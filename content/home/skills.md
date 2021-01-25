@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 40%
   icon: lungs-virus
-  icon_pack: fab
+  icon_pack: fas
   name: Cell Host & Microbes
 - description: 30%
   icon: dna
@@ -27,7 +27,7 @@ feature:
 - description: 30%
   icon: briefcase-medical
   icon_pack: fas
-  name: Medicine
+  name: Medicine and Therapeutics
 
   
 # Uncomment to use emoji icons.
