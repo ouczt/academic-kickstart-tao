@@ -27,10 +27,11 @@ content:
   filter_button:
   - name: The role of gut phages and fungi in human health and disease
     tag: '*'
-  - name: Trans-kingdom interactions across microbes and its relationship with disease pathogenesis
+  - name: Microbe-microbe and its relationship to disease pathogenesis
     tag: '*'
   - name: Precision microbial therapy
     tag: '*'
+ 
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -41,7 +42,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 1
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
