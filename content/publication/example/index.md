@@ -69,6 +69,19 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
+---
 title: "Depicting SARS-CoV-2 fecal viral activity in association with gut microbiota composition in patients with COVID-19"
 
 # Authors
@@ -97,34 +110,19 @@ tags: []
 featured: true
 ---
 
-title: "Depicting SARS-CoV-2 fecal viral activity in association with gut microbiota composition in patients with COVID-19"
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
-authors:
-- admin
-- Qin Liu, Fen Zhang et al.
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
 
-#PUBLICATION DATA
-date: "2020-07-01T00:00:00Z"
-doi: ""
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
 
-# Publication name and optional abbreviated publication name.
-publication: In *Gut*
 
-tags: []
-
-# Display this page in the Featured widget?
-featured: true
 ---
-
 title: "Human Gut DNA Virome Variations across Geography, Ethnicity, and Urbanisation"
 
 # Authors
@@ -181,6 +179,17 @@ tags: []
 featured: true
 ---
 
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
 ---
 title: "Alterations in Fecal Fungal Microbiome of Patients With COVID-19 During Time of Hospitalisation until Discharge"
 
@@ -210,6 +219,17 @@ tags: []
 featured: true
 ---
 
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
 ---
 title: "Gut mucosal virome alterations in ulcerative colitis"
 
@@ -237,6 +257,19 @@ tags: []
 
 # Display this page in the Featured widget?
 featured: true
+---
+
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
 ---
 
 title: "Urbanization and the gut microbiota in health and inflammatory bowel disease"
