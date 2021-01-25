@@ -1,0 +1,10 @@
+@article{zuo2020alterations,
+  title={Alterations in gut microbiota of patients with COVID-19 during time of hospitalization},
+  author={Zuo, Tao and Zhang, Fen and Lui, Grace CY and Yeoh, Yun Kit and Li, Amy YL and Zhan, Hui and Wan, Yating and Chung, Arthur CK and Cheung, Chun Pan and Chen, Nan and others},
+  journal={Gastroenterology},
+  volume={159},
+  number={3},
+  pages={944--955},
+  year={2020},
+  publisher={Elsevier}
+}
