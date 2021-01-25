@@ -16,22 +16,19 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 25%
-  icon: bacteria
+- description: 40%
+  icon: lungs-virus
   icon_pack: fab
-  name: Microbes
-- description: 25%
+  name: Cell Host & Microbes
+- description: 30%
   icon: dna
   icon_pack: fas
   name: Metagenomics
-- description: 25%
+- description: 30%
   icon: briefcase-medical
   icon_pack: fas
   name: Medicine
-- description: 25%
-  icon: lungs-virus
-  icon_pack: fas
-  name: Cell Host & Microbes
+
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
