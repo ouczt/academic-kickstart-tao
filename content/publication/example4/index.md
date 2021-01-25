@@ -1,5 +1,5 @@
 ---
-title: "1.	Tao Zuo#, Qin Liu#, Fen Zhang# et al. Depicting SARS-CoV-2 fecal viral activity in association with gut microbiota composition in patients with COVID-19. Gut (2020)."
+title: "Tao Zuo#, Yang Sun#, Yating Wan et al. Human Gut DNA Virome Variations across Geography, Ethnicity, and Urbanisation. Cell Host & Microbe (2020). "
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -7,6 +7,9 @@ title: "1.	Tao Zuo#, Qin Liu#, Fen Zhang# et al. Depicting SARS-CoV-2 fecal vira
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
+# Publication name and optional abbreviated publication name.
+publication: In *Cell Host & Microbe*
+publication_short: In *ICW*
 ---
 
 {{% callout note %}}

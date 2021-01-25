@@ -1,5 +1,6 @@
 ---
-title: "1.	Tao Zuo#, Qin Liu#, Fen Zhang# et al. Depicting SARS-CoV-2 fecal viral activity in association with gut microbiota composition in patients with COVID-19. Gut (2020)."
+title: "Tao Zuo, Sunny H Wong, Siew C Ng et al. Gut fungal dysbiosis correlates with reduced efficacy of fecal microbiota transplantation in Clostridium difficile infection. Nature Communications (2018)"
+
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
