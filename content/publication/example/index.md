@@ -69,7 +69,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
----
 title: "Depicting SARS-CoV-2 fecal viral activity in association with gut microbiota composition in patients with COVID-19"
 
 # Authors
@@ -98,7 +97,6 @@ tags: []
 featured: true
 ---
 
----
 title: "Depicting SARS-CoV-2 fecal viral activity in association with gut microbiota composition in patients with COVID-19"
 
 # Authors
@@ -127,7 +125,6 @@ tags: []
 featured: true
 ---
 
----
 title: "Human Gut DNA Virome Variations across Geography, Ethnicity, and Urbanisation"
 
 # Authors
@@ -156,7 +153,6 @@ tags: []
 featured: true
 ---
 
----
 title: "Alterations in Gut Microbiota of Patients With COVID-19 During Time of Hospitalization"
 
 # Authors
@@ -185,7 +181,6 @@ tags: []
 featured: true
 ---
 
----
 title: "Alterations in Fecal Fungal Microbiome of Patients With COVID-19 During Time of Hospitalisation until Discharge"
 
 # Authors
@@ -214,7 +209,6 @@ tags: []
 featured: true
 ---
 
----
 title: "Gut mucosal virome alterations in ulcerative colitis"
 
 # Authors
@@ -243,7 +237,6 @@ tags: []
 featured: true
 ---
 
----
 title: "Urbanization and the gut microbiota in health and inflammatory bowel disease"
 
 # Authors
@@ -272,7 +265,6 @@ tags: []
 featured: true
 ---
 
----
 title: "Gut fungal dysbiosis correlates with reduced efficacy of fecal microbiota transplantation in Clostridium difficile infection"
 
 # Authors
@@ -301,7 +293,6 @@ tags: []
 featured: true
 ---
 
----
 title: "Temporal Landscape of Human Gut virome in SARS-CoV-2 infection and severity"
 
 # Authors
@@ -330,8 +321,6 @@ tags: []
 featured: true
 ---
 
-
----
 title: "The gut microbiota in the pathogenesis and therapeutics of inflammatory bowel disease"
 
 # Authors
@@ -360,7 +349,6 @@ tags: []
 featured: true
 ---
 
----
 title: "Population-level configurations of gut mycobiome across six ethnicities in urban and rural China"
 
 # Authors
@@ -390,7 +378,6 @@ tags: []
 featured: true
 ---
 
----
 title: "Gut microbiota composition reflects disease severity and dysfunctional immune responses in COVID-19 patients"
 
 # Authors
@@ -420,7 +407,6 @@ tags: []
 featured: true
 ---
 
----
 title: "Longitudinal dynamics of gut bacteriome, mycobiome and virome after fecal microbiota transplantation in graft-versus-host disease"
 
 # Authors
@@ -450,7 +436,6 @@ tags: []
 featured: true
 ---
 
----
 title: "INAVA-ARNO complexes bridge mucosal barrier function with inflammatory signaling"
 
 # Authors
