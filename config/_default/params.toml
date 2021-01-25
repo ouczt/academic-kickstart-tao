@@ -173,8 +173,8 @@ plugins_js  = []
 
 # Avatars.
 # An avatar is an image that appears next to a user's name.
-# An avatar can be uploaded as an image named `tao` to each user's profile or fetched from Gravatar.com.
-[tao]
+# An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
+[avatar]
   # Get user avatars from Gravatar.com? (true/false)
   gravatar = false
 
@@ -197,13 +197,13 @@ plugins_js  = []
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
-  publication_view = 2
-  talk_view = 2
+  post_view = 1
+  publication_view = 1
+  talk_view = 1
 
 # Breadcrumb navigation
 [breadcrumb]
-  page_types = {book = true}
+  page_types = {book = false}
 
 ############################
 ## Comments
@@ -236,7 +236,7 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
