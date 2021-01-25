@@ -1,5 +1,5 @@
 ---
-title: "Bacteriophage transfer during faecal microbiota transplantation in Clostridium difficile infection is associated with treatment outcome"
+title: "Tao Zuo, Wong S H, Lam K, Siew C Ng et al. Bacteriophage transfer during faecal microbiota transplantation in Clostridium difficile infection is associated with treatment outcome. Gut, 2018, 67(4):634-643. "
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
