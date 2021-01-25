@@ -1,5 +1,5 @@
 ---
-title: "1.	Tao Zuo#, Qin Liu#, Fen Zhang# et al. Depicting SARS-CoV-2 fecal viral activity in association with gut microbiota composition in patients with COVID-19. Gut (2020)."
+title: "Tao Zuo#, Qin Liu#, Fen Zhang# et al. Depicting SARS-CoV-2 fecal viral activity in association with gut microbiota composition in patients with COVID-19. Gut (2020)."
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
