@@ -98,7 +98,7 @@ address = {street = "26 Yuancun erheng Road", city = "Guangzhou", region = "Guan
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "23.12002", longitude = "113.36418"}
+coordinates = {latitude = "23.11892", longitude = "113.36464"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 3 and take the lift to Office 908 on Floor 9"
