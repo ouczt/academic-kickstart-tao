@@ -70,4 +70,4 @@ email: "zuot@mail.sysu.edu.cn"
 highlight_name: false
 ---
 
-Dr. Tao Zuo is a professor at Sun Yat-Sen University and the Sixth affiliated Hospital of SYSU. His research interests include gut microbiome in human health and disease, with special interest in microbiome 'dark matters' (virome/phageome, mycobiome, archaeaome) and their roles, interactions and mechanisms of actions in disease pathogensis as well as therapeutics. He leads the Microbiome research Lab at SYSU Research Institute of Gastroenterology (Guangdong Institute of Gastroenterology), where he is also appointed as Associate Director.
+Dr. Tao Zuo is a professor at Sun Yat-Sen University and the Sixth affiliated Hospital of SYSU. His research interests include gut microbiome in human health and disease, with special interest in microbiome 'dark matters' (virome/phageome, mycobiome, archaeaome) and their roles, interactions and mechanisms of actions in disease pathogenesis as well as therapeutics. He leads the Microbiome research Lab at SYSU Research Institute of Gastroenterology (Guangdong Institute of Gastroenterology), where he is also appointed as Associate Director.
