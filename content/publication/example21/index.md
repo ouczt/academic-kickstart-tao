@@ -1,5 +1,5 @@
 ---
-title: "Zuo, Tao, Liu, Qin, Zhang, Fen. et al. Temporal landscape of human gut RNA and DNA virome in SARS-CoV-2 infection and severity. Microbiome 9, 91 (2021)."
+title: "Tao Zuo, Qin Liu Fen Zhang. et al. Temporal landscape of human gut RNA and DNA virome in SARS-CoV-2 infection and severity. Microbiome (2021)."
 
 
 # Publication type.
