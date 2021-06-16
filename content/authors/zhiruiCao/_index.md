@@ -5,7 +5,7 @@ title: ZHI-RUI CAO
 # Username (this should match the folder name)
 authors:
 - Zhi-rui Cao
-weight: 15
+weight: 2
 
 # Is this the primary user of the site?
 superuser: true
