@@ -5,7 +5,7 @@ title: HONG-XIA CHEN
 # Username (this should match the folder name)
 authors:
 - Hong-xia Chen
-weight: 39
+weight: 5
 
 # Is this the primary user of the site?
 superuser: true

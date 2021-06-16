@@ -5,7 +5,7 @@ title: XIAO-WU BAI
 # Username (this should match the folder name)
 authors:
 - Xiao-wu Bai
-weight: 5
+weight: 1
 
 # Is this the primary user of the site?
 superuser: true

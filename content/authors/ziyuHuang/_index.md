@@ -5,7 +5,7 @@ title: ZI-YU HUANG
 # Username (this should match the folder name)
 authors:
 - Zi-yu Huang
-weight: 15
+weight: 3
 
 # Is this the primary user of the site?
 superuser: true
