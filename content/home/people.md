@@ -51,4 +51,3 @@ subtitle = ""
  css_class = ""
 +++
 
-Visit [this page]({{< relref "members/">}} "all people")  for a full list of past and present members.
