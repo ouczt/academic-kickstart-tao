@@ -16,7 +16,7 @@ publication_types = ["2"]
 publication_short = "*Gastroenterolgoy*"
 publication = "*Gastroenterolgoy*"
 
-authors = ["Yang Sun#","Tao Zuo#","Kunhua Wang*","Siew C Ng*","Yinglei Miao*"]
+authors = ["Yang Sun#","Tao Zuo#","Chun Pan Cheung","Wenxi Gu","Yating Wan","Fen Zhang","Nan Chen","Hui Zhan","Yun Kit Yeoh","Junkun Niu","Yan Du","Fengrui Zhang","Yunling Wen","Jun Yu","Joseph J Y Sung","Paul K S Chan","Francis K L Chan","Kunhua Wang*","Siew C Ng*","Yinglei Miao*"]
 date = "2020-09-18"
 url_pmid = "https://pubmed.ncbi.nlm.nih.gov/32956679/"
 +++
