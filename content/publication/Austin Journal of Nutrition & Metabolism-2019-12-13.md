@@ -11,7 +11,6 @@ weight = 68
 highlight = true
 title = "From Gut Microbial Ecogroup to Precision Nutrition and Human Health"
 url_doi = "*"
-abstract="*"
 publication_types = ["2"]
 publication_short = "*Austin Journal of Nutrition & Metabolism*"
 publication = "*Austin Journal of Nutrition & Metabolism*"
