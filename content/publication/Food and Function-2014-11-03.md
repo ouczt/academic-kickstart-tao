@@ -16,7 +16,7 @@ publication_types = ["2"]
 publication_short = "*Food and Function*"
 publication = "*Food and Function*"
 
-authors = ["Tao Zuo#","Xuemin Li#","Qingjuan Tang*"]
+authors = ["Tao Zuo#","Xuemin Li#","Yaoguang Chang","Gaofei Duan","Long Yu","Rong Zheng","Changhu Xue","Qingjuan Tang*"]
 date = "2014-11-03"
 url_pmid = "*"
 +++
