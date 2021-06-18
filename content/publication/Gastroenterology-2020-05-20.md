@@ -16,7 +16,7 @@ publication_types = ["2"]
 publication_short = "*Gastroenterology*"
 publication = "*Gastroenterology*"
 
-authors = ["Tao Zuo#","Fen Zhang#","Grace C Y Lui#","Siew C Ng*"]
+authors = ["Tao Zuo#","Fen Zhang#","Grace C Y Lui#","Yun Kit Yeoh","Amy Y L Li","Hui Zhan","Yating Wan","Arthur C K Chung","Chun Pan Cheung","Nan Chen","Christopher K C Lai","Zigui Chen","Eugene Y K Tso","Kitty S C Fung","Veronica Chan","Lowell Ling","Gavin Joynt","David S C Hui","Francis K L Chan","Paul K S Chan","Siew C Ng*"]
 date = "2020-05-20"
 url_pmid = "https://pubmed.ncbi.nlm.nih.gov/32442562/"
 +++
