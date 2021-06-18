@@ -16,7 +16,7 @@ publication_types = ["2"]
 publication_short = "*J Applied Microbiology and Biotechnology*"
 publication = "*J Applied Microbiology and Biotechnology*"
 
-authors = ["Tao Zuo#","Qing-Juan Tang*"]
+authors = ["Tao Zuo#","Xianqi Feng","Na Zhang","Changhu Xue","Qing-Juan Tang*"]
 date = "2015-03-18"
 url_pmid = "https://pubmed.ncbi.nlm.nih.gov/25776060/"
 +++
