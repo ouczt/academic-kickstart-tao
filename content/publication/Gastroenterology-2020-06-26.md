@@ -16,7 +16,7 @@ publication_types = ["2"]
 publication_short = "*Gastroenterology*"
 publication = "*Gastroenterology*"
 
-authors = ["Tao Zuo#","Hui Zhan","Fen Zhang","Siew C Ng*"]
+authors = ["Tao Zuo#","Hui Zhan","Fen Zhang","Qin Liu","Eugene Y K Tso","Grace C Y Lui","Nan Chen","Amy Li","Wenqi Lu","Francis K L Chan","Paul K S Chan","Siew C Ng*"]
 date = "2020-06-26"
 url_pmid = "https://pubmed.ncbi.nlm.nih.gov/32598884/"
 +++
