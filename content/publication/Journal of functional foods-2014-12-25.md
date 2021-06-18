@@ -16,7 +16,7 @@ publication_types = ["2"]
 publication_short = "*Journal of functional foods*"
 publication = "*Journal of functional foods*"
 
-authors = ["Tao Zuo#","Qingjuan Tang*"]
+authors = ["Tao Zuo#","Xinjia He","Lu Cao","Changhu Xue","Qing-Juan Tang*"]
 date = "2014-12-25"
 url_pmid = "*"
 +++
