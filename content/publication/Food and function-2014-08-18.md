@@ -16,7 +16,7 @@ publication_types = ["2"]
 publication_short = "*Food and function*"
 publication = "*Food and function*"
 
-authors = ["Qingjuan Tang#","Tao Zuo#","Changhu Xue*"]
+authors = ["Qingjuan Tang#","Tao Zuo#","Shangyun Lu","Juan Wu","Jianghua Wang","Rong Zheng","Shiguo Chen","Changhu Xue*"]
 date = "2014-08-18"
 url_pmid = "https://pubmed.ncbi.nlm.nih.gov/25131333/"
 +++
