@@ -16,7 +16,7 @@ publication_types = ["2"]
 publication_short = "*Nutrition and Cancer*"
 publication = "*Nutrition and Cancer*"
 
-authors = ["Tao Zuo#","Lu Cao","Qingjuan Tang*"]
+authors = ["Tao Zuo#","Lu Cao","Xuemin Li","Qi Zhang","Changhu Xue","Qingjuan Tang*"]
 date = "2015-01-14"
 url_pmid = "*"
 +++
