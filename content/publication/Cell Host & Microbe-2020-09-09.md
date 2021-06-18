@@ -16,7 +16,7 @@ publication_types = ["2"]
 publication_short = "*Cell Host & Microbe*"
 publication = "*Cell Host & Microbe*"
 
-authors = ["Tao Zuo#","Yang Sun#","Siew C Ng*"]
+authors = ["Tao Zuo#","Yang Sun#","Yating Wan","Yun Kit Yeoh","Fen Zhang","Chun Pan Cheung","Nan Chen","Juan Luo","Wen Wang","Joseph J Y Sung","Paul K S Chan","Kunhua Wang","Francis K L Chan","Yinglei Miao","Siew C Ng*"]
 date = "2020-09-09"
 url_pmid = "https://pubmed.ncbi.nlm.nih.gov/32910902/"
 +++
