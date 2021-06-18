@@ -16,7 +16,7 @@ publication_types = ["2"]
 publication_short = "*Nature Communications*"
 publication = "*Nature Communications*"
 
-authors = ["Tao Zuo#","Sunny H Wong","Chun Pan Cheung","Siew C Ng*"]
+authors = ["Tao Zuo#","Sunny H Wong","Chun Pan Cheung","Kelvin Lam","Rashid Lui","Kitty Cheung","Fen Zhang","Whitney Tang","Jessica Y L Ching","Justin C Y Wu","Paul K S Chan","Joseph J Y Sung","Jun Yu","Francis K L Chan","Siew C Ng*"]
 date = "2018-09-10"
 url_pmid = "https://pubmed.ncbi.nlm.nih.gov/30202057/"
 +++
