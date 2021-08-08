@@ -16,7 +16,7 @@ publication_types = ["2"]
 publication_short = "*Food control*"
 publication = "*Food control*"
 
-authors = ["Tao Zuo#,"Zhaojie Li#","Yingchun Lv#","Gaofei Duan","Chunxia Wang","Qingjuan Tang*","Changhu Xue*"]
+authors = ["Tao Zuo#","Zhaojie Li#","Yingchun Lv#","Gaofei Duan","Chunxia Wang","Qingjuan Tang*","Changhu Xue*"]
 date = "2012-01-03"
 url_pmid = "*"
 +++
