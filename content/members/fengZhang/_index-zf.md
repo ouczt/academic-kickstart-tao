@@ -27,7 +27,7 @@ education:
   - course: Doctor of Clinical Medicine
     institution: Sun Yat-sen University
     year: 2021 - now
- courses:
+  courses:
   - course: Master of Medicine in Internal Medicine
     institution: Sun Yat-sen University
     year: 2013 - 2016
