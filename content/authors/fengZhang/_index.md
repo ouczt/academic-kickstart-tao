@@ -5,7 +5,7 @@ title: FENG ZHANG
 # Username (this should match the folder name)
 authors:
 - Feng Zhang
-weight: 5
+weight: 3
 
 # Is this the primary user of the site?
 superuser: true
