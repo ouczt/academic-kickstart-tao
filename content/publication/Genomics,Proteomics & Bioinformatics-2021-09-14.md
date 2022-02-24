@@ -12,7 +12,7 @@ highlight = true
 title = "Gut Microbiome Alterations in COVID-19"
 url_doi = "https://doi.org/10.1016/j.gpb.2021.09.004"
 publication_types = ["2"]
-publication_short = "*GPB*"
+publication_short = "*Genomics,Proteomics & Bioinformatics*"
 publication = "*Genomics,Proteomics & Bioinformatics*"
 
 authors = ["Tao Zuo#*","Xiaojian Wu*","Weiping Wen*","Ping Lan*"]
