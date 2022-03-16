@@ -16,6 +16,6 @@ publication_short = "*Frontiers in Immunology*"
 publication = "*Frontiers in Immunology*"
 
 authors = ["Bai Xiaowu","Liu Wei-Xin","Chen Hongxia","Zuo Tao*","Wu Xiao-Jian*"]
-date = "2022"
+date = "2022-03-01"
 url_pmid = "https://pubmed.ncbi.nlm.nih.gov/35001217/"
 +++
