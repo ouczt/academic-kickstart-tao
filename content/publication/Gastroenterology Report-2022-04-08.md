@@ -11,6 +11,7 @@ weight = 68
 highlight = true
 title = "Interplays between drugs and the gut microbiome"
 url_doi = "https://doi.org/10.1093/gastro/goac009"
+abstract="**Gastroenterology Report,2022**"
 publication_types = ["2"]
 publication_short = "*Gastroenterology Report*"
 publication = "*Gastroenterology Report*"
