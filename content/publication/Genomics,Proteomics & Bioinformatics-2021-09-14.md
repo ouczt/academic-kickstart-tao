@@ -11,6 +11,7 @@ weight = 68
 highlight = true
 title = "Gut Microbiome Alterations in COVID-19"
 url_doi = "https://doi.org/10.1016/j.gpb.2021.09.004"
+abstract="**Genomics,Proteomics & Bioinformatics,2021**"
 publication_types = ["2"]
 publication_short = "*Genomics,Proteomics & Bioinformatics*"
 publication = "*Genomics,Proteomics & Bioinformatics*"

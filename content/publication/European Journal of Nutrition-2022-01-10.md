@@ -11,6 +11,7 @@ weight = 68
 highlight = true
 title = "Probiotic supplementation demonstrates therapeutic potential in treating gut dysbiosis and improving neurocognitive function in age-related dementia"
 url_doi = "https://doi.org/10.1007/s00394-021-02760-4"
+abstract="**European Journal of Nutrition,2022**"
 publication_types = ["2"]
 publication_short = "*European Journal of Nutrition*"
 publication = "*European Journal of Nutrition*"

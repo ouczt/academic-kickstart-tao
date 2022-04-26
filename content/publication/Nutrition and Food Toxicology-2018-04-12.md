@@ -11,6 +11,7 @@ weight = 68
 highlight = true
 title = "Effect of Food Additives on the Gut Microbiome in Relation to Human Health"
 url_doi = "*"
+abstract="**Nutrition and Food Toxicology,2018**"
 publication_types = ["2"]
 publication_short = "*Nutrition and Food Toxicology*"
 publication = "*Nutrition and Food Toxicology*"

@@ -11,6 +11,7 @@ weight = 68
 highlight = true
 title = "Roles of the gut virome and mycobiome in faecal microbiota transplantation"
 url_doi = "https://doi.org/10.1016/S2468-1253(21)00303-4"
+abstract="**The Lancet Gastroenterology & Hepatology,2022**
 publication_types = ["2"]
 publication_short = "*The Lancet Gastroenterology & Hepatology*"
 publication = "*The Lancet Gastroenterology & Hepatology*"

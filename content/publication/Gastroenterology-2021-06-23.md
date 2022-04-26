@@ -11,6 +11,7 @@ weight = 68
 highlight = true
 title = "Alterations in the gut virome in obesity and type 2 diabetes mellitus"
 url_doi = "10.1053/j.gastro.2021.06.056"
+abstract="**Gastroenterology,2021**"
 publication_types = ["2"]
 publication_short = "*Gastroenterology*"
 publication = "*Gastroenterology*"

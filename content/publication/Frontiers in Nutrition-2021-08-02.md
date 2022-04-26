@@ -11,6 +11,7 @@ weight = 68
 highlight = true
 title = "Editorial: Food Additives, Cooking and Processing: Impact on the Microbiome"
 url_doi = "10.3389/fnut.2021.731040"
+abstract="**Frontiers in Nutrition,2021**"
 publication_types = ["2"]
 publication_short = "*Frontiers in Nutrition*"
 publication = "*Frontiers in Nutrition*"

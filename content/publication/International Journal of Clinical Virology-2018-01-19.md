@@ -11,6 +11,7 @@ weight = 68
 highlight = true
 title = "Unveiling the gut virome in human health and diseases"
 url_doi = "https://doi.org/10.29328/journal.ijcv.1001002"
+abstract="**International Journal of Clinical Virology,2018**"
 publication_types = ["2"]
 publication_short = "*International Journal of Clinical Virology*"
 publication = "*International Journal of Clinical Virology*"

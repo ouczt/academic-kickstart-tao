@@ -11,6 +11,7 @@ weight = 68
 highlight = true
 title = "Immune cell landscaping reveals distinct immune signatures of inflammatory bowel disease"
 url_doi = "https://doi.org/10.1007/s00394-021-02760-4"
+abstract="**Frontiers in Immunology,2022**
 publication_types = ["2"]
 publication_short = "*Frontiers in Immunology*"
 publication = "*Frontiers in Immunology*"
