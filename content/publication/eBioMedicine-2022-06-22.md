@@ -17,6 +17,6 @@ publication_short = "*eBioMedicine*"
 publication = "*eBioMedicine*"
 
 authors = ["Zhirui Cao","Naoki Sugimura","Elke Burgermeister","Matthias P. Ebert","Tao Zuo*","Ping Lan*"]
-date = "2022-6-22"
+date = "2022-06-22"
 url_pmid = ""
 +++
