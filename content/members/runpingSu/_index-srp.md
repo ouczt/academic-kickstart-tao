@@ -18,7 +18,7 @@ organizations:
   url: "http://www.sysu.edu.cn/en/index.htm"
 
 
-interests:writing, play tennis.
+interests:
 - Gut Microbiome
 
 education:
