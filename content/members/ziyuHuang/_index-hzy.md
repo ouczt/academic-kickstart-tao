@@ -20,6 +20,7 @@ organizations:
 
 interests:
 - Gut Microbiome
+- Inflammatory Bowel Disease
 
 education:
   courses:
