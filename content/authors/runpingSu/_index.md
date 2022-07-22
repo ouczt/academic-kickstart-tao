@@ -1,10 +1,10 @@
 ---
 # Display name
-title: RU-PING SU
+title: RUN-PING SU
 
 # Username (this should match the folder name)
 authors:
-- Ru-Ping Su
+- Run-Ping Su
 weight: 16
 
 # Is this the primary user of the site?
