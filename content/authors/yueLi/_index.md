@@ -5,7 +5,7 @@ title: YUE LI
 # Username (this should match the folder name)
 authors:
 - Yue Li
-weight: 5
+weight: 4
 
 # Is this the primary user of the site?
 superuser: true

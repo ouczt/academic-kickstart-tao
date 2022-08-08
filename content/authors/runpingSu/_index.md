@@ -5,7 +5,7 @@ title: RUN-PING SU
 # Username (this should match the folder name)
 authors:
 - Run-Ping Su
-weight: 16
+weight: 5
 
 # Is this the primary user of the site?
 superuser: true
