@@ -11,7 +11,7 @@ weight: 5
 superuser: true
 
 # Role/position
-role: Technician
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
