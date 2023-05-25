@@ -28,6 +28,27 @@ experience:
     location: Guangzhou, China
     date_start: '2021-01-07'
     date_end: ''
+
+  - title: Deputy Director
+    company: Key Laboratory of Human Microbiome and Chronic Diseases (Sun Yat-sen University), Ministry of Education, China
+    company_url: ''
+    location: Guangzhou, China
+    date_start: '2023-01-07'
+    date_end: ''
+
+  - title: Associate Director
+    company: Guangdong Institute of Gastroenterology, Sun Yat-sen University The Sixth Affiliated Hospital
+    company_url: ''
+    location: Guangzhou, China
+    date_start: '2021-01-07'
+    date_end: ''
+
+  - title: Associate Director
+    company: Center for Laboratory Animals, Sun Yat-sen University
+    company_url: ''
+    location: Guangzhou, China
+    date_start: '2022-03-07'
+    date_end: ''
         
   - title: Research Assistant Professor
     company: The Chinese University of Hong Kong
