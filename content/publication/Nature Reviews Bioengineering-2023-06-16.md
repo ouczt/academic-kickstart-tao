@@ -17,6 +17,6 @@ publication_short = "*Nature Reviews Bioengineering*"
 publication = "*Nature Reviews Bioengineering*"
 
 authors = ["Xiaowu Bai#","Ziyu Huang#","Anna M. Duraj-Thatte","Matthias P. Ebert","Fen Zhang","Elke Burgermeister","Xue Liu","Benjamin M. Scott","Guoxin Li*","Tao Zuo*"]
-date = "2023-6-16"
+date = "2023-06-16"
 url_pmid = ""
 +++
