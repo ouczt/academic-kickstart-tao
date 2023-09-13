@@ -16,7 +16,7 @@ publication_types = ["2"]
 publication_short = "*Journal of Medical Virology*"
 publication = "*Journal of Medical Virology*"
 
-authors = ["Tao Zuo#*","Guanzhan Liang#","Ziyu Huang#","Zhirui Cao#","Feiyu Bai","Yingqian Zhou","Xianrui Wu","Xiaojian Wu","Yao-qing Chen","Maimaitituerxun Balati","Muyessar Maimaitiyiming","The CORNER study team","Ping Lan*"]
+authors = ["Tao Zuo#","Guanzhan Liang#","Ziyu Huang#","Zhirui Cao#","Feiyu Bai","Yingqian Zhou","Xianrui Wu","Xiaojian Wu","Yao-qing Chen","Maimaitituerxun Balati","Muyessar Maimaitiyiming","The CORNER study team","Ping Lan*"]
 date = "2023-09-12"
 url_pmid = ""
 +++
