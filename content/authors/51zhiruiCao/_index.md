@@ -11,7 +11,8 @@ weight: 51
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Student (Alumni)
+
 # Organizations/Affiliations
 organizations:
 - name: Sun Yat-sen University
@@ -19,9 +20,7 @@ organizations:
 
 
 interests:
-- Intestinal Microecology
-- Gut Microbiome
-- Mechanism of Oncotherapy
+
 
 education:
   courses:

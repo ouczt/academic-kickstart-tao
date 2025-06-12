@@ -20,8 +20,7 @@ organizations:
 
 
 interests:
-- Colorectal Cancer
-- Intestinal Microecology and Human Immunity
+
 
 education:
   courses:
