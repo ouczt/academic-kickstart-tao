@@ -5,7 +5,7 @@ title: YU LU
 # Username (this should match the folder name)
 authors:
 - Yu Lu
-weight: 2
+weight: 52
 
 # Is this the primary user of the site?
 superuser: true
