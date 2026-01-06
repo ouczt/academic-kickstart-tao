@@ -10,7 +10,7 @@
 weight = 68
 highlight = true
 title = "Gut mucosal mycobiome profiling in Crohn’s disease uncovers an AMP-mediated anti-inflammatory effect of *Cladosporium sphaerospermum*"
-url_doi = ""
+url_doi = "https://www.nature.com/articles/s42255-025-01420-9"
 abstract="**Nature Metabolism, 2026**"
 publication_types = ["2"]
 publication_short = "*Nature Metabolism*"
