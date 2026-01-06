@@ -5,7 +5,7 @@ title: ZHANGXUE WEN
 # Username (this should match the folder name)
 authors:
 - Zhangxue Wen
-weight: 9
+weight: 17
 
 # Is this the primary user of the site?
 superuser: true

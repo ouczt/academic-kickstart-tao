@@ -1,17 +1,17 @@
 ---
 # Display name
-title: YUFENG JIN
+title: XIAOMING YUAN
 
 # Username (this should match the folder name)
 authors:
-- Yufeng Jin
-weight: 7
+- Xiaoming Yuan
+weight: 2
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:

@@ -1,18 +1,17 @@
 ---
 # Display name
-title: YU LU
+title: ZIYU HUANG
 
 # Username (this should match the folder name)
 authors:
-- Yu Lu
-weight: 2
+- Ziyu Huang
+weight: 12
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoc
-
+role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: Sun Yat-sen University
@@ -20,12 +19,18 @@ organizations:
 
 
 interests:
-- Gut microbiome
+- Gut Mycobiome
 - Inflammatory Bowel Disease
 
 education:
   courses:
-  - course: 
+  - course: PhD of Preclinical Medicine
+    institution: Sun Yat-sen University
+    year: 2021 - now
+  courses:
+  - course: Bachelor of Pharmaceutical Science
+    institution: Sun Yat-sen University
+    year: 2017 - 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,11 +39,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: ""  # For a direct email link, use "mailto:test@example.org".
-  
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Xiaowu-Bai
+  link: "huangzy58@mail2.sysu.edu.cn"  # For a direct email link, use "mailto:test@example.org".
+
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -49,4 +54,4 @@ user_groups:
 - Members
 ---
 <br>
-
+Zi-Yu HUANG is a PhD student of Preclinical Medicine at the Sixth Affiliated Hospital of Sun Yat-sen University. He has finished his bachelor of Pharmaceutical Science in Sun Yat-sen University. He is interested in applying bioinformatic methods to research gut microbiome in human health and disease.

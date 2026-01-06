@@ -1,18 +1,17 @@
 ---
 # Display name
-title: NENGNENG LI
+title: FENG ZHANG
 
 # Username (this should match the folder name)
 authors:
-- Nengneng li
-weight: 8
+- Feng Zhang
+weight: 14
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD Student
-
+role: MD Student
 # Organizations/Affiliations
 organizations:
 - name: Sun Yat-sen University
@@ -20,14 +19,22 @@ organizations:
 
 
 interests:
-- Inflammatory Bowel Disease
-- Gut Virome
+- Microbiome
+- Diet
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+  - course: Doctor of Clinical Medicine
+    institution: Sun Yat-sen University
+    year: 2021 - now
+  courses:
+  - course: Master of Medicine in Internal Medicine
+    institution: Sun Yat-sen University
+    year: 2013 - 2016
+  courses:
+  - course: Bachelor of Medicine in Clinical Medicine
+    institution: Sun Yat-sen University
+    year: 2008 - 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,12 +43,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "ly864367232@163.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "zhangf229@mail.sysu.edu.cn"  # For a direct email link, use "mailto:test@example.org".
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -52,3 +58,4 @@ user_groups:
 - Members
 ---
 <br>
+Dr. Feng ZHANG now works in the Department of Rheumatology of the Sixth Affiliated Hospital of SYSU since 2016. She has finished her Bachelor of Clinical Medicine and Master period study in Sun Yat-sen University. She has finished the national standardized training of residents. As a physician, she focuses on the diagnosis and treatment of rheumatic disease. Her recent research interest is diet and intestinal microecology.

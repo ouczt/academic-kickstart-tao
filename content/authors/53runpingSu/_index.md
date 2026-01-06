@@ -1,17 +1,17 @@
 ---
 # Display name
-title: GUANNAN WANG
+title: RUNPING SU
 
 # Username (this should match the folder name)
 authors:
-- Guannan Wang
-weight: 5
+- RunPing Su
+weight: 20
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Master Student (Alumni)
 # Organizations/Affiliations
 organizations:
 - name: Sun Yat-sen University
@@ -19,11 +19,17 @@ organizations:
 
 
 interests:
-- Gut Archaeome 
-- Inflammatory Bowel Disease
+- Gut Microbiome
 
 education:
-
+  courses:
+  - course: Master of Preclinical Medicine
+    institution: Sun Yat-sen University
+    year: 2022 - now
+  courses:
+  - course: Bachelor of Medical Examination Technology
+    institution: Guang zhou medical University
+    year: 2018 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -32,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "huangzy58@mail2.sysu.edu.cn"  # For a direct email link, use "mailto:test@example.org".
+  link: "surunping20@163.com"  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -47,3 +53,4 @@ user_groups:
 - Members
 ---
 <br>
+Run-Ping SU is a master student of Preclinical Medicine at the Sixth Affiliated Hospital of Sun Yat-sen University. 
