@@ -9,7 +9,7 @@
 
 weight = 68
 highlight = true
-title = "Viewing MASLD through an integrative gut microbiome lens"
+title = "Dietary urbanization destabilizes host-gut microbiome homeostasis and informs precision nutrition for human health"
 url_doi = "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(25)00398-5"
 abstract="**Cell Metabolism, 2025**"
 publication_types = ["2"]
