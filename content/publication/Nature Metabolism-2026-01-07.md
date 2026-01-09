@@ -17,6 +17,6 @@ publication_short = "*Nature Metabolism*"
 publication = "*Nature Metabolism*"
 
 authors = ["Ziyu Huang#", "Yunyun Liu#", "Yushan Wu#", "Feng Zhang", "Leyi Yu", "Shanshan Gao", "Weijie Wen", "Guannan Wang", "Runping Su", "Pei Xia", "Qiming Zhou", "Yiran Bie", "Peishan Hu", "Elke Burgermeister", "Ping Lan", "Xiaojian Wu", "Hu Zhang*", "Fen Zhang*", "Emad M. El-Omar*", "Tao Zuo*"]
-date = "2025-01-07"
+date = "2026-01-07"
 url_pmid = ""
 +++
