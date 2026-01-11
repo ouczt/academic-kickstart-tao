@@ -7,7 +7,7 @@
 # 4 -> 'Book chapter',
 # 5 -> 'Thesis'
 
-weight = 68
+weight = 69
 highlight = true
 title = "Gut mucosal mycobiome profiling in Crohn’s disease uncovers an AMP-mediated anti-inflammatory effect of Cladosporium sphaerospermum"
 url_doi = "https://www.nature.com/articles/s42255-025-01420-9"
@@ -16,7 +16,9 @@ publication_types = ["2"]
 publication_short = "*Nature Metabolism*"
 publication = "*Nature Metabolism*"
 
-authors = ["Ziyu Huang#", "Yunyun Liu#", "Yushan Wu#", "Feng Zhang", "Leyi Yu", "Shanshan Gao", "Weijie Wen", "Guannan Wang", "Runping Su", "Pei Xia", "Qiming Zhou", "Yiran Bie", "Peishan Hu", "Elke Burgermeister", "Ping Lan", "Xiaojian Wu", "Hu Zhang*", "Fen Zhang*", "Emad M. El-Omar*", "Tao Zuo*"]
+authors = ["Ziyu Huang#", "Yunyun Liu#", "Yushan Wu#", "Feng Zhang", "Leyi Yu", "Shanshan Gao", 
+			"Weijie Wen", "Guannan Wang", "Runping Su", "Pei Xia", "Qiming Zhou", "Yiran Bie", 
+			"Peishan Hu", "Elke Burgermeister", "Ping Lan", "Xiaojian Wu", "Hu Zhang*", "Fen Zhang*", "Emad M. El-Omar*", "Tao Zuo*"]
 date = "2026-01-07"
 url_pmid = ""
 +++
