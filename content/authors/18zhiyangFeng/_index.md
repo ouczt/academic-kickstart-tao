@@ -5,13 +5,13 @@ title: ZHIYANG FENG
 # Username (this should match the folder name)
 authors:
 - Zhiyang Feng
-weight: 21
+weight: 18
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Master Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
